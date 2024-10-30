@@ -1,0 +1,42 @@
+@keyframes tiltLeft {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(-10deg);
+  }
+}
+
+@keyframes tiltRight {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+}
+
+.tilt-left {
+  animation: tiltLeft 5s infinite;
+  transform-origin: bottom center;
+}
+
+.tilt-right {
+  animation: tiltRight 5s infinite;
+  transform-origin: bottom center;
+}
+
+.react-tooltip {
+  max-width: 250px;
+  white-space: normal;
+  font-size: 0.9em;
+  padding: 10px;
+  text-align: center;
+	z-index: 999;
+}
+
+@media (max-width: 600px) {
+  .react-tooltip {
+    max-width: 180px;
+  }
+}
