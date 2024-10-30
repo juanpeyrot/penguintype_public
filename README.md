@@ -20,7 +20,7 @@ PenguinType es una aplicación de escritura inspirada en [MonkeyType](https://mo
 El proyecto es especialmente interesante porque combina **múltiples áreas** del desarrollo de software, ofreciendo una experiencia integral para los usuarios. Al tratarse de un juego con funcionalidades de guardado de datos en tiempo real, el proyecto fusiona conceptos fundamentales de **lógica de programación**, **gestión eficiente de estados** y desarrollo frontend moderno. Además, el uso del **ciclo de vida de los componentes** en React y la interacción fluida con Firebase representan un desafío significativo, exigiendo un entendimiento profundo de la comunicación entre el cliente y la base de datos. 
 Esta mezcla de tecnologías no solo pone a prueba habilidades técnicas, sino que también fomenta la **resolución creativa** de problemas, la gestión de flujos asíncronos y el diseño de interfaces **atractivas**, **responsivas** y **funcionales**, consolidando a PenguinType como un proyecto ideal para aprender, explorar y aplicar conocimientos de desarrollo más avanzados.
 
-Puedes ver la app desplegada [aquí](https://google.com).
+**Puedes ver la app desplegada [aquí](https://penguintype-7137e.web.app/)**.
 
 <div style="display: flex; flex-direction: column; justify-content: center">
 	<div style="height: 400px;">
